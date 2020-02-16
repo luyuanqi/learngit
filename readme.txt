@@ -1,5 +1,5 @@
 Git is a distributed version control system
-Git is a free software distribute under CPL
+Git is a a free software distribute under CPL
 Git is instersting
 Git tracks changes of files
 name you
